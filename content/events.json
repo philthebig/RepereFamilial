@@ -1,0 +1,173 @@
+[
+  {
+    "id": "ex-2026-11-03-cafe-rencontre",
+    "date": "2026-11-03",
+    "time": "10:00",
+    "service": "maison",
+    "location": "maniwaki",
+    "title": { "fr": "Café-rencontre", "en": "Coffee meetup" },
+    "example": true
+  },
+  {
+    "id": "ex-2026-11-04-cafe-au-lait",
+    "date": "2026-11-04",
+    "time": "13:30",
+    "service": "peri",
+    "location": "maniwaki",
+    "title": { "fr": "Café au lait", "en": "Café au lait" },
+    "example": true
+  },
+  {
+    "id": "ex-2026-11-05-halte-maniwaki",
+    "date": "2026-11-05",
+    "service": "halte",
+    "location": "maniwaki",
+    "title": { "fr": "Halte-garderie", "en": "Drop-in daycare" },
+    "example": true
+  },
+  {
+    "id": "ex-2026-11-05-halte-gracefield",
+    "date": "2026-11-05",
+    "service": "halte",
+    "location": "gracefield",
+    "title": { "fr": "Halte-garderie", "en": "Drop-in daycare" },
+    "example": true
+  },
+  {
+    "id": "ex-2026-11-06-mini-gigote",
+    "date": "2026-11-06",
+    "time": "09:30",
+    "service": "maison",
+    "location": "maniwaki",
+    "title": { "fr": "Mini-gigote", "en": "Mini-gigote" },
+    "detail": { "fr": "2 à 5 ans", "en": "Ages 2 to 5" },
+    "example": true
+  },
+  {
+    "id": "ex-2026-11-09-coeur-de-mere",
+    "date": "2026-11-09",
+    "service": "peri",
+    "location": "maniwaki",
+    "title": { "fr": "Cœur de mère", "en": "Cœur de mère" },
+    "example": true
+  },
+  {
+    "id": "ex-2026-11-10-cuisine",
+    "date": "2026-11-10",
+    "service": "maison",
+    "location": "maniwaki",
+    "title": { "fr": "Cuisine collective", "en": "Collective kitchen" },
+    "example": true
+  },
+  {
+    "id": "ex-2026-11-12-halte-maniwaki",
+    "date": "2026-11-12",
+    "service": "halte",
+    "location": "maniwaki",
+    "title": { "fr": "Halte-garderie", "en": "Drop-in daycare" },
+    "example": true
+  },
+  {
+    "id": "ex-2026-11-12-halte-gracefield",
+    "date": "2026-11-12",
+    "service": "halte",
+    "location": "gracefield",
+    "title": { "fr": "Halte-garderie", "en": "Drop-in daycare" },
+    "example": true
+  },
+  {
+    "id": "ex-2026-11-13-pedo",
+    "date": "2026-11-13",
+    "service": "pedo",
+    "location": "maniwaki",
+    "title": { "fr": "Rencontre en pédiatrie sociale", "en": "Social pediatrics meeting" },
+    "example": true
+  },
+  {
+    "id": "ex-2026-11-16-cafe-rencontre",
+    "date": "2026-11-16",
+    "time": "10:00",
+    "service": "maison",
+    "location": "maniwaki",
+    "title": { "fr": "Café-rencontre", "en": "Coffee meetup" },
+    "example": true
+  },
+  {
+    "id": "ex-2026-11-17-cafe-au-lait",
+    "date": "2026-11-17",
+    "time": "13:30",
+    "service": "peri",
+    "location": "maniwaki",
+    "title": { "fr": "Café au lait", "en": "Café au lait" },
+    "example": true
+  },
+  {
+    "id": "ex-2026-11-18-mini-gigote",
+    "date": "2026-11-18",
+    "time": "09:30",
+    "service": "maison",
+    "location": "maniwaki",
+    "title": { "fr": "Mini-gigote", "en": "Mini-gigote" },
+    "detail": { "fr": "2 à 5 ans", "en": "Ages 2 to 5" },
+    "example": true
+  },
+  {
+    "id": "ex-2026-11-19-halte-maniwaki",
+    "date": "2026-11-19",
+    "service": "halte",
+    "location": "maniwaki",
+    "title": { "fr": "Halte-garderie", "en": "Drop-in daycare" },
+    "example": true
+  },
+  {
+    "id": "ex-2026-11-19-halte-gracefield",
+    "date": "2026-11-19",
+    "service": "halte",
+    "location": "gracefield",
+    "title": { "fr": "Halte-garderie", "en": "Drop-in daycare" },
+    "example": true
+  },
+  {
+    "id": "ex-2026-11-20-coeur-de-mere",
+    "date": "2026-11-20",
+    "time": "10:00",
+    "service": "peri",
+    "location": "maniwaki",
+    "title": { "fr": "Cœur de mère", "en": "Cœur de mère" },
+    "example": true
+  },
+  {
+    "id": "ex-2026-11-23-coeur-de-mere",
+    "date": "2026-11-23",
+    "service": "peri",
+    "location": "maniwaki",
+    "title": { "fr": "Cœur de mère", "en": "Cœur de mère" },
+    "example": true
+  },
+  {
+    "id": "ex-2026-11-24-mini-gigote",
+    "date": "2026-11-24",
+    "time": "09:30",
+    "service": "maison",
+    "location": "maniwaki",
+    "title": { "fr": "Mini-gigote", "en": "Mini-gigote" },
+    "detail": { "fr": "2 à 5 ans", "en": "Ages 2 to 5" },
+    "example": true
+  },
+  {
+    "id": "ex-2026-11-25-halte-maniwaki",
+    "date": "2026-11-25",
+    "service": "halte",
+    "location": "maniwaki",
+    "title": { "fr": "Halte-garderie", "en": "Drop-in daycare" },
+    "example": true
+  },
+  {
+    "id": "ex-2026-11-25-halte-gracefield",
+    "date": "2026-11-25",
+    "service": "halte",
+    "location": "gracefield",
+    "title": { "fr": "Halte-garderie", "en": "Drop-in daycare" },
+    "example": true
+  }
+]
